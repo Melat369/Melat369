@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melat</h1>
-<h3 align="center">A UI/UX Designer and A Junior Mobile App Developer</h3>
+<h3 align="center">Aspiring Software Engineer and Programmer</h3>
 <img src="https://blog.domotz.com/wp-content/uploads/2022/03/WomanVR-blog-1.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melat369&label=Profile%20views&color=0e75b6&style=flat" alt="melat369" /> </p>
 
