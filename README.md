@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melat</h1>
 <h3 align="center">An Aspiring Software Engineer and A Passionate Programmer</h3>
 <img src="https://blog.domotz.com/wp-content/uploads/2022/03/WomanVR-blog-1.jpeg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melat369&label=Profile%20views&color=0e75b6&style=flat" alt="melat369" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melat369" alt="melat369" /></a> </p>
 
 - 🤝 I’m looking for help with **APIs**
