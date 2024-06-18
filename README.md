@@ -130,8 +130,6 @@
       </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melat369&show_icons=true&locale=en&layout=compact" alt="melat369" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melat369&show_icons=true&locale=en" alt="melat369" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melat369&" alt="melat369" /></p>
